@@ -1,0 +1,4 @@
+<manifest>
+    <git local-path="0.0.0.0" remote-path="0.0.0.0" />
+    <git local-path="1.1.1.1" remote_path="1.1.1.1" />
+</manifest>
