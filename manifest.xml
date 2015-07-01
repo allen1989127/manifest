@@ -1,4 +1,4 @@
 <manifest>
-    <git local-path="0.0.0.0" remote-path="0.0.0.0" />
-    <git local-path="1.1.1.1" remote-path="1.1.1.1" />
+    <git local-path="crack" remote-path="git@github.com:allen1989127/crack_nine_patch.git" />
+    <git local-path="fuck" remote-path="git@github.com:allen1989127/FuckLogin.git" />
 </manifest>
