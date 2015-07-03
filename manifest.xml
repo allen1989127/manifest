@@ -1,4 +1,7 @@
 <manifest>
-    <git local-path="crack" remote-path="git@github.com:allen1989127/crack_nine_patch.git" />
-    <git local-path="fuck" remote-path="git@github.com:allen1989127/FuckLogin.git" />
+    <git local-path="Common" remote-path="git@172.27.16.254:Common" />
+    <git local-path="Mimir" remote-path="git@172.27.16.254:Mimir" />
+    <git local-path="Skuld" remote-path="git@172.27.16.254:Skuld" />
+    <git local-path="Urd" remote-path="git@172.27.16.254:Urd" />
+    <git local-path="Verdandi" remote-path="git@172.27.16.254:Verdandi" />
 </manifest>
