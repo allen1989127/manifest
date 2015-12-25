@@ -1,7 +1,7 @@
 <manifest>
-    <git local-path="Common" remote-path="git@172.27.16.254:Common" />
-    <git local-path="Mimir" remote-path="git@172.27.16.254:Mimir" />
-    <git local-path="Skuld" remote-path="git@172.27.16.254:Skuld" />
-    <git local-path="Urd" remote-path="git@172.27.16.254:Urd" />
-    <git local-path="Verdandi" remote-path="git@172.27.16.254:Verdandi" />
+    <git local-path="Common" remote-path="gitlab@172.20.25.74:norns/Common-Norns.git" />
+    <git local-path="Mimir" remote-path="gitlab@172.20.25.74:norns/Mimir-Norns.git" />
+    <git local-path="Skuld" remote-path="gitlab@172.20.25.74:norns/Skuld-Norns.git" />
+    <git local-path="Urd" remote-path="gitlab@172.20.25.74:norns/Urd-Norns.git" />
+    <git local-path="Verdandi" remote-path="gitlab@172.20.25.74:norns/Verdandi-Norns.git" />
 </manifest>
